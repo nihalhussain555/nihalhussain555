@@ -12,10 +12,10 @@
   </p>
 
   <p>
-    <a href="https://nihal-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/nihal-hussain-cse"><img src="https://img.shields.io/badge/LinkedIn-Nihal_Hussain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-nihalhussain587%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-nihalhussain555-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://nihal-protfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/nihal-hussain-cse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/nihalhussain555" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://komarev.com/ghpvc/?username=nihalhussain555&label=Profile%20Views&color=8b5cf6&style=flat-square"><img src="https://komarev.com/ghpvc/?username=nihalhussain555&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views" /></a>
   </p>
 
@@ -59,7 +59,7 @@
 | :--- | :--- |
 | **Programming Languages** | <a href="#-technical-skills"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" /></a> |
 | **AI / Machine Learning** | <a href="#-technical-skills"><img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logo=scikit-learn&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/LLMs_%26_RAG-7C3AED?style=flat-square&logo=openai&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Multi--Agent_Systems-6366F1?style=flat-square&logo=anthropic&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a> |
-| **Web & Frameworks** | <a href="#-technical-skills"><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=flutter&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" /></a> |
+| **Web & Frameworks** | <a href="#-technical-skills"><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" /></a> |
 | **Databases & DevOps** | <a href="#-technical-skills"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a> |
 | **CS Fundamentals** | <a href="#-technical-skills"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B5CF6?style=flat-square" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Object--Oriented_Programming-3B82F6?style=flat-square" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/DBMS-10B981?style=flat-square" /></a> <a href="#-technical-skills"><img src="https://img.shields.io/badge/Operating_Systems-64748B?style=flat-square" /></a> |
 
@@ -87,7 +87,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/nihalhussain555/Launch-Crew"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://launch-crew-gray.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/nihalhussain555/Launch-Crew" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
       </p>
     </td>
     <td width="33.3%" valign="top">
@@ -97,13 +98,13 @@
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <p>
-        <a href="https://civicai-theta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/nihalhussain555/CivicAI_Nexus"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://civicai-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/nihalhussain555/CivicAI_Nexus" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
       </p>
     </td>
     <td width="33.3%" valign="top">
@@ -113,13 +114,13 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <p>
-        <a href="https://ai-phishing-detector-tnlt.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black" /></a>
-        <a href="https://github.com/nihalhussain555/AI-Phishing-Detector"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://ai-phishing-detector-tnlt.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://github.com/nihalhussain555/AI-Phishing-Detector" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
       </p>
     </td>
   </tr>
@@ -135,8 +136,8 @@
         <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p>
-        <a href="https://campus-clubs-events-management.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/nihalhussain555/Campus_Clubs_Events_Management"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://campus-clubs-events-management.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/nihalhussain555/Campus_Clubs_Events_Management" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -148,7 +149,7 @@
         <img src="https://img.shields.io/badge/Hackathon_Sprint-FF6B6B?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/nihalhussain555/Ai-Powered-Food-Waste-Tracker"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/nihalhussain555/Ai-Powered-Food-Waste-Tracker" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
       </p>
     </td>
   </tr>
@@ -169,10 +170,10 @@
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
       </p>
     </td>
@@ -186,28 +187,28 @@
 <table width="100%">
   <tr align="center">
     <td width="25%">
-      <a href="https://leetcode.com/u/Nihal_555/">
+      <a href="https://leetcode.com/u/Nihal_555/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-Knight_Badge-FFA116?style=flat-square&logo=leetcode&logoColor=black" /><br/>
-        <b>Rating: 1924 (Top 4.9% Globally)</b><br/>
+        <b>Rating: 1924 (Top 4.9%)</b><br/>
         <code>900+ Problems Solved</code>
       </a>
     </td>
     <td width="25%">
-      <a href="https://www.codechef.com/users/kit28csb106">
+      <a href="https://www.codechef.com/users/kit28csb106" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-2_Star-5B4638?style=flat-square&logo=codechef&logoColor=white" /><br/>
         <b>Peak Rating: 1608</b><br/>
         <code>900+ Problems Solved</code>
       </a>
     </td>
     <td width="25%">
-      <a href="https://codeforces.com/profile/nihalhussain555">
+      <a href="https://codeforces.com/profile/nihalhussain555" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-Contender-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /><br/>
         <b>Peak Rating: 1071</b><br/>
         <code>300+ Problems Solved</code>
       </a>
     </td>
     <td width="25%">
-      <a href="https://www.hackerrank.com/profile/kit28_24bcs106">
+      <a href="https://www.hackerrank.com/profile/kit28_24bcs106" target="_blank">
         <img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /><br/>
         <b>Problem Solving ⭐⭐⭐⭐⭐</b><br/>
         <code>Core CS & Algorithms</code>
@@ -240,14 +241,14 @@
     <td width="33.3%" valign="top">
       <b>🧠 AI Fundamentals</b><br/>
       <small>Supervised, Unsupervised ML & Evaluation</small><br/>
-      <img src="https://img.shields.io/badge/Verified-AI%2FML-10B981?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Verified-AI%2FML-10B981?style=flat-square&logo=scikit-learn&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="33.3%" valign="top">
       <b>⚡ Prompt Engineering Basics</b><br/>
       <small>LLM Steering, Few-Shot & Reasoning Chains</small><br/>
-      <img src="https://img.shields.io/badge/Verified-Prompting-F59E0B?style=flat-square&logo=sparkles&logoColor=white" />
+      <img src="https://img.shields.io/badge/Verified-Prompting-F59E0B?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td width="33.3%" valign="top">
       <b>🔮 Claude Code 101</b><br/>
@@ -268,24 +269,14 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr align="center">
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nihalhussain555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhussain555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8" height="165" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nihalhussain555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=94a3b8" height="155" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhussain555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8" height="155" alt="Top Languages" />
+  </p>
 
-  <img src="https://streak-stats.demolab.com?user=nihalhussain555&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff7b00&currStreakLabel=a855f7" height="165" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <a href="https://github.com/nihalhussain555">
-    <img src="https://ghchart.rshah.org/8b5cf6/nihalhussain555" alt="Nihal Hussain's GitHub Contribution Graph" width="98%" />
-  </a>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=nihalhussain555&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff7b00&currStreakLabel=a855f7" height="155" alt="GitHub Streak" />
+  </p>
 
 </div>
 
@@ -298,14 +289,14 @@
   <p>Open to <b>Software Engineering Internships</b>, <b>AI/ML Roles</b>, and <b>Impactful Collaborations</b>.</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/nihal-hussain-cse"><img src="https://img.shields.io/badge/LinkedIn-Nihal_Hussain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://nihal-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-nihalhussain587%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-nihalhussain555-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://leetcode.com/u/Nihal_555/"><img src="https://img.shields.io/badge/LeetCode-Knight_1924-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://www.codechef.com/users/kit28csb106"><img src="https://img.shields.io/badge/CodeChef-kit28csb106-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-    <a href="https://codeforces.com/profile/nihalhussain555"><img src="https://img.shields.io/badge/Codeforces-nihalhussain555-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-    <a href="https://www.hackerrank.com/profile/kit28_24bcs106"><img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+    <a href="https://www.linkedin.com/in/nihal-hussain-cse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://nihal-protfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/nihalhussain555" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://leetcode.com/u/Nihal_555/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.codechef.com/users/kit28csb106" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+    <a href="https://codeforces.com/profile/nihalhussain555" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.hackerrank.com/profile/kit28_24bcs106" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
   </p>
 
   <p>
