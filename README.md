@@ -191,22 +191,6 @@ https://<your-app>.vercel.app/api/top-langs/?username=nihalhussain555&layout=com
 
 <div align="center">
 
-#### Contribution Grid
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihalhussain555/nihalhussain555/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalhussain555/nihalhussain555/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nihalhussain555/nihalhussain555/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<sub>Generated nightly by <code>.github/workflows/snake.yml</code> into the <code>output</code> branch, in light and dark variants that follow GitHub's own contribution colours for the current theme. Push the workflow file to resume the daily refresh; run it manually from the Actions tab to update it on demand.</sub>
-
-</div>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-<div align="center">
-
 <img src="assets/label-connect.svg" alt="Let's Connect" />
 
 <br/>
