@@ -79,8 +79,17 @@
 
 <table width="100%">
   <tr>
-    <td width="44%" valign="top"><img src="assets/projects/civicai-nexus.png" width="100%" alt="CivicAI Nexus interface" /></td>
+    <td width="44%" valign="top"><img src="assets/projects/launchcrew.png" width="100%" alt="Launch Crew workspace" /></td>
     <td width="56%" valign="top">
+      <h4>Launch Crew</h4>
+      <p>Autonomous multi-agent launch workspace. One product idea in, and an orchestrated agent crew researches, writes, designs and builds a landing page, then runs its own Playwright checks in a real browser and loops through a critic until the launch-readiness score holds. Ships with a Monaco-based editor, run history and an approval-gated deploy.</p>
+      <p><code>React</code> <code>Python</code> <code>FastAPI</code> <code>AI Agents</code> <code>Docker</code></p>
+      <p><a href="https://launch-crew-gray.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/nihalhussain555/Launch-Crew"><b>Source ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/projects/civicai-nexus.png" width="100%" alt="CivicAI Nexus interface" /></td>
+    <td valign="top">
       <h4>CivicAI Nexus</h4>
       <p>Predictive multimodal grievance intelligence platform. Citizens report in <b>Tamil, Hindi or English</b> by text, voice or photo; NLP classification, semantic similarity and RAG route each case to the right department, while predictive SLA tracking flags complaints at risk of missing their resolution deadline.</p>
       <p><code>Python</code> <code>React</code> <code>NLP</code> <code>RAG</code> <code>MongoDB</code></p>
@@ -107,7 +116,7 @@
   </tr>
 </table>
 
-<sub>More: [LaunchCrew](https://github.com/nihalhussain555/Launch-Crew) — autonomous multi-agent web app builder · [Fixon](https://github.com/nihalhussain555/Fixon) · [AI Voice Sales Bot](https://github.com/nihalhussain555/AI-Voice-Sales-Bot) · [MERKISYS](https://github.com/nihalhussain555/MERKISYS) · [GlobeTrotter](https://github.com/nihalhussain555/GlobeTrotter) · [P2P Learning Graph Tracker](https://github.com/nihalhussain555/Peer-to-Peer-Learning-Graph-Tracker) · [AI Food Waste Tracker](https://github.com/nihalhussain555/Ai-Powered-Food-Waste-Tracker) · [House Price](https://github.com/nihalhussain555/House_Price) · [Email Scam Detection](https://github.com/nihalhussain555/Email-Scam-Detection)</sub>
+<sub>More: [Fixon](https://github.com/nihalhussain555/Fixon) · [AI Voice Sales Bot](https://github.com/nihalhussain555/AI-Voice-Sales-Bot) · [MERKISYS](https://github.com/nihalhussain555/MERKISYS) · [GlobeTrotter](https://github.com/nihalhussain555/GlobeTrotter) · [P2P Learning Graph Tracker](https://github.com/nihalhussain555/Peer-to-Peer-Learning-Graph-Tracker) · [AI Food Waste Tracker](https://github.com/nihalhussain555/Ai-Powered-Food-Waste-Tracker) · [House Price](https://github.com/nihalhussain555/House_Price) · [Email Scam Detection](https://github.com/nihalhussain555/Email-Scam-Detection)</sub>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
