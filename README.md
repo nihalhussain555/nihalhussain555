@@ -1,226 +1,225 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,60:1e1b4b,100:0d1117&height=180&section=header&text=NIHAL%20HUSSAIN&fontSize=40&fontAlignY=38&fontColor=ffffff&desc=AI%2FML%20Engineer%20%C2%B7%20MERN%20Stack%20Developer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Nihal Hussain" />
+<img src="assets/hero.svg" width="100%" alt="Nihal Hussain — AI/ML Engineer, MERN Stack Developer" />
 
-<a href="https://nihal-protfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=600&height=40&lines=Building+AI+systems+that+ship;Agentic+AI+%E2%80%A2+LLM+Integration+%E2%80%A2+RAG;Full-Stack+on+MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node" alt="AI/ML Engineer | MERN Stack Developer" />
-</a>
+<br/>
 
-<a href="https://nihal-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/nihal-hussain-cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&labelColor=1F2430" alt="LinkedIn" /></a>
-<a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=nihalhussain555&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
+<a href="https://nihal-protfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=620&height=42&lines=AI%2FML+Engineer+%C2%B7+MERN+Stack+Developer;Building+intelligent%2C+production-grade+systems;Agentic+AI+%C2%B7+RAG+%C2%B7+LLM+Integration" alt="AI/ML Engineer · MERN Stack Developer · Agentic AI, RAG, LLM integration" /></a>
 
-</div>
+<p><sub>Computer Science Engineering student building AI-powered products end to end — from model to deployment.</sub></p>
 
-## About
-
-I am an AI/ML engineer and full-stack developer from Tamil Nadu, India, studying B.E. Computer Science at Kalaignar Karunanidhi Institute of Technology. My work sits where machine learning meets shipping software: retrieval pipelines, LLM integration and multi-agent systems, wrapped in MERN applications that real users can operate.
-
-I care about systems that survive contact with production — measurable accuracy, tests, error handling, and deployments that stay up.
-
-<div align="center">
-
-| | |
-| :--- | :--- |
-| 🔭 **Focus** | Agentic AI, RAG pipelines, full-stack AI products |
-| 🎓 **Education** | B.E. Computer Science & Engineering, KIT Coimbatore |
-| 🌐 **Stack** | Python · C++ · JavaScript · React · Node.js · MongoDB |
-| 📍 **Location** | Tamil Nadu, India |
-| 💬 **Open to** | AI/ML engineering roles, MERN development, collaborations |
-
-</div>
-
-## Tech Stack
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Languages</h4>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/SQL-003B57?style=flat" alt="SQL" />
-      </p>
-      <h4>Frontend</h4>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3" />
-      </p>
-      <h4>Backend</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>AI / ML</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat&logo=anthropic&logoColor=white" alt="AI Agents" />
-        <img src="https://img.shields.io/badge/LLM%20Integration-06B6D4?style=flat&logo=huggingface&logoColor=white" alt="LLM Integration" />
-      </p>
-      <h4>Databases</h4>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-      <h4>Tooling</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&labelColor=1F2430" alt="VS Code" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://skillicons.dev/icons?i=cpp,py,js,c,react,html,css,nodejs,express,flask,mongodb,mysql,git,github,vscode&theme=dark" alt="Skill icons" />
-
-</div>
-
-## Featured Projects
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-**🏛️ [CivicAI Nexus](https://github.com/nihalhussain555/CivicAI_Nexus)**
-
-Multilingual citizen grievance platform. NLP classification, RAG and semantic similarity route and prioritise government complaints, with sentiment analysis on every submission.
-
-`Python` `React` `RAG` `NLP` `MongoDB`
-
-[Live](https://civicai-theta.vercel.app) · [Source](https://github.com/nihalhussain555/CivicAI_Nexus)
-
-    </td>
-    <td width="50%" valign="top">
-
-**🛡️ [AI Phishing Detector](https://github.com/nihalhussain555/AI-Phishing-Detector)**
-
-Real-time malicious URL detection using lexical, structural and domain-age heuristics, backed by a trained classifier and a live threat dashboard.
-
-`Python` `Flask` `Scikit-learn` `MongoDB`
-
-[Live](https://ai-phishing-detector-tnlt.onrender.com) · [Source](https://github.com/nihalhussain555/AI-Phishing-Detector)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**🎓 [Campus Clubs & Events Management](https://github.com/nihalhussain555/Campus_Clubs_Events_Management)**
-
-MERN platform for club governance, digital ticketing, event registration and certificate issuance, secured by JWT role-based access control.
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-[Live](https://campus-clubs-events-management.vercel.app) · [Source](https://github.com/nihalhussain555/Campus_Clubs_Events_Management)
-
-    </td>
-    <td width="50%" valign="top">
-
-**🤖 [LaunchCrew](https://github.com/nihalhussain555/Launch-Crew)**
-
-Autonomous multi-agent platform that turns natural-language requirements into containerised web apps, with a built-in Monaco IDE, branch version control and live agent traces.
-
-`React` `Python` `AI Agents` `Docker`
-
-[Live](https://launch-crew-gray.vercel.app) · [Source](https://github.com/nihalhussain555/Launch-Crew)
-
-    </td>
-  </tr>
-</table>
-
-**More work:** [Fixon](https://github.com/nihalhussain555/Fixon) · [AI Voice Sales Bot](https://github.com/nihalhussain555/AI-Voice-Sales-Bot) · [MERKISYS](https://github.com/nihalhussain555/MERKISYS) · [GlobeTrotter](https://github.com/nihalhussain555/GlobeTrotter) · [Peer-to-Peer Learning Graph Tracker](https://github.com/nihalhussain555/Peer-to-Peer-Learning-Graph-Tracker) · [AI Food Waste Tracker](https://github.com/nihalhussain555/Ai-Powered-Food-Waste-Tracker) · [House Price Prediction](https://github.com/nihalhussain555/House_Price) · [Email Scam Detection](https://github.com/nihalhussain555/Email-Scam-Detection)
-
-</div>
-
-## Coding Profile
-
-<div align="center">
-
-<table width="100%">
-  <tr align="center">
-    <td width="25%"><img src="https://img.shields.io/badge/Problem%20Solving-8B5CF6?style=flat" alt="Problem solving" /><br /><b>2,700+</b><br /><sub>Problems solved</sub></td>
-    <td width="25%"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-06B6D4?style=flat" alt="Data Structures and Algorithms" /><br /><b>1,200+</b><br /><sub>DSA problems</sub></td>
-    <td width="25%"><img src="https://img.shields.io/badge/Daily%20Streak-F97316?style=flat" alt="Daily streak" /><br /><b>560+</b><br /><sub>Days consistent</sub></td>
-    <td width="25%"><a href="https://www.codechef.com/users/kit28csb106"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" /></a><br /><a href="https://leetcode.com/u/Nihal_555/"><img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=flat&logo=leetcode&logoColor=orange" /></a><br /><a href="https://www.hackerrank.com/profile/kit28_24bcs106"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank&logoColor=black" /></a></td>
-  </tr>
-</table>
-
-<sub>Problem counts are self-reported across coding platforms, not GitHub contribution figures.</sub>
-
-</div>
-
-## Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-06B6D4?style=flat&logo=scikitlearn&logoColor=white" alt="Advanced Machine Learning" />
-<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=flat&labelColor=1F2430" alt="AWS Cloud" />
-<img src="https://img.shields.io/badge/DevOps-0D1B2A?style=flat&logo=githubactions&logoColor=white" alt="DevOps" />
-
-</div>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nihalhussain555&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=F97316&currStreakLabel=06B6D4&sideLabels=8B949E&dates=58A6FF" height="168" alt="GitHub contribution streak" />
-
-</div>
-
-<p align="center">
-  <img src="https://gh-readme-activity-graph.vercel.app/graph?username=nihalhussain555&bg_color=0d1117&color=A5B4FC&line=8B5CF6&point=06B6D4&area=true&area_color=1E1B4B&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph" />
+<p>
+  <a href="https://linkedin.com/in/nihal-hussain-cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&labelColor=1F2430" alt="LinkedIn" /></a>
+  <a href="https://nihal-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat&logo=vercel&logoColor=white&labelColor=1F2430" alt="Portfolio" /></a>
+  <a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=1F2430" alt="GitHub" /></a>
+  <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1F2430" alt="Email" /></a>
+  <img src="https://img.shields.io/github/followers/nihalhussain555?label=Followers&style=flat&color=8B5CF6&labelColor=1F2430" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=nihalhussain555&label=Profile%20views&color=06B6D4&style=flat&labelColor=1F2430" alt="Profile views" />
 </p>
 
-<details>
-<summary><b>Most-used languages &amp; how to make these cards live</b></summary>
+</div>
 
-<br />
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center"><img src="assets/label-about.svg" alt="About" /></div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="46%" valign="top" align="center"><img src="assets/about-core.svg" width="100%" alt="Neural core illustration" /></td>
+    <td width="54%" valign="top">
+      <p>I am an <b>AI/ML engineer and MERN stack developer</b> from Tamil Nadu, India, studying B.E. Computer Science &amp; Engineering at Kalaignar Karunanidhi Institute of Technology (<b>CGPA 8.42 / 10.0</b>).</p>
+      <p>My focus is the part most portfolios skip: taking models past the notebook into systems that hold up under real users — retrieval pipelines, LLM integration and multi-agent orchestration, delivered through React and Node services.</p>
+      <p>
+        <b>Building:</b> intelligent applications and AI-powered products, end to end<br/>
+        <b>Exploring:</b> agentic AI, LLM steering, scalable software architecture<br/>
+        <b>Experience:</b> AI/ML intern at DECODELABS — applied ML and NLP<br/>
+        <b>Working style:</b> measurable accuracy, tested code, deployments that stay up
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center"><img src="assets/label-tech.svg" alt="Technology Universe" /></div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="27%" valign="middle"><b>Programming Languages</b></td>
+    <td width="73%"><img src="https://skillicons.dev/icons?i=cpp,py,js,c&theme=dark" alt="C++, Python, JavaScript, C" /> <img src="https://img.shields.io/badge/SQL-003B57?style=flat&labelColor=1F2430" alt="SQL" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="React, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Node.js, Express, Flask" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>AI &amp; Machine Learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat&labelColor=1F2430" alt="Machine Learning" /> <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat&logo=anthropic&logoColor=white&labelColor=1F2430" alt="AI Agents" /> <img src="https://img.shields.io/badge/LLM%20Integration-06B6D4?style=flat&logo=huggingface&logoColor=white&labelColor=1F2430" alt="LLM Integration" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=1F2430" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=1F2430" alt="Pandas" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB, MySQL" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Tools &amp; Platforms</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" /></td>
+  </tr>
+</table>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center"><img src="assets/label-work.svg" alt="Featured Work" /></div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="44%" valign="top"><img src="assets/projects/civicai-nexus.png" width="100%" alt="CivicAI Nexus interface" /></td>
+    <td width="56%" valign="top">
+      <h4>CivicAI Nexus</h4>
+      <p>Predictive multimodal grievance intelligence platform. Citizens report in <b>Tamil, Hindi or English</b> by text, voice or photo; NLP classification, semantic similarity and RAG route each case to the right department, while predictive SLA tracking flags complaints at risk of missing their resolution deadline.</p>
+      <p><code>Python</code> <code>React</code> <code>NLP</code> <code>RAG</code> <code>MongoDB</code></p>
+      <p><a href="https://civicai-theta.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/nihalhussain555/CivicAI_Nexus"><b>Source ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/projects/phishing-detector.png" width="100%" alt="AI Phishing Detector console" /></td>
+    <td valign="top">
+      <h4>AI Phishing Detector</h4>
+      <p>Real-time cybersecurity console. A trained <b>45-feature classifier</b> scores URL structure while the engine reads the live TLS certificate, re-validates every redirect and statically parses the delivered HTML — then explains which signals produced the verdict. Ships with email, QR-code and claim-verification analyzers.</p>
+      <p><code>Python</code> <code>Flask</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>JavaScript</code></p>
+      <p><a href="https://ai-phishing-detector-tnlt.onrender.com"><b>Live ↗</b></a> · <a href="https://github.com/nihalhussain555/AI-Phishing-Detector"><b>Source ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/projects/campus-clubs.png" width="100%" alt="Campus Clubs platform" /></td>
+    <td valign="top">
+      <h4>Campus Clubs &amp; Events Management</h4>
+      <p>Full-stack campus platform for club governance, event registration, digital ticketing and certificate issuance, secured with <b>JWT role-based access control</b> and an embedded conversational AI assistant.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code></p>
+      <p><a href="https://campus-clubs-events-management.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/nihalhussain555/Campus_Clubs_Events_Management"><b>Source ↗</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<sub>More: [LaunchCrew](https://github.com/nihalhussain555/Launch-Crew) — autonomous multi-agent web app builder · [Fixon](https://github.com/nihalhussain555/Fixon) · [AI Voice Sales Bot](https://github.com/nihalhussain555/AI-Voice-Sales-Bot) · [MERKISYS](https://github.com/nihalhussain555/MERKISYS) · [GlobeTrotter](https://github.com/nihalhussain555/GlobeTrotter) · [P2P Learning Graph Tracker](https://github.com/nihalhussain555/Peer-to-Peer-Learning-Graph-Tracker) · [AI Food Waste Tracker](https://github.com/nihalhussain555/Ai-Powered-Food-Waste-Tracker) · [House Price](https://github.com/nihalhussain555/House_Price) · [Email Scam Detection](https://github.com/nihalhussain555/Email-Scam-Detection)</sub>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center"><img src="assets/label-analytics.svg" alt="GitHub Analytics" /></div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="54%" valign="top" align="center"><img src="https://streak-stats.demolab.com?user=nihalhussain555&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=F97316&currStreakLabel=06B6D4&sideLabels=8B949E&dates=58A6FF&card_width=440" width="100%" alt="Total contributions, current streak and longest streak" /></td>
+    <td width="46%" valign="top" align="center">
+      <img src="https://img.shields.io/github/followers/nihalhussain555?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1F2430" alt="GitHub followers" /><br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=nihalhussain555&label=Profile%20views&color=06B6D4&style=for-the-badge&labelColor=1F2430" alt="Profile views" /><br/><br/>
+      <sub>Contribution, streak and follower figures update automatically.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://gh-readme-activity-graph.vercel.app/graph?username=nihalhussain555&bg_color=0d1117&color=A5B4FC&line=8B5CF6&point=06B6D4&area=true&area_color=1E1B4B&hide_border=true&hide_title=true" width="100%" alt="Commit activity graph" />
+
+<details>
+<summary><b>Most-used languages &amp; the stats-card recipe</b></summary>
+
+<br/>
 
 Primary languages across my public repositories, by code volume: **JavaScript · Python · Jupyter Notebook · CSS · HTML · TypeScript · C++**.
 
-The shared `github-readme-stats.vercel.app` instance is now documented by its own maintainer as best-effort and rate-limited, so I do not link it here — it renders "Maximum retries exceeded" for my account today. To add live stats and language cards:
+The shared `github-readme-stats.vercel.app` instance is described by its own maintainer as best-effort and rate-limited, and it currently returns "Maximum retries exceeded" for this account — so it is not linked here. To add a stats and language card, deploy your own instance ([one-click Vercel setup](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)) with a `GITHUB_TOKEN` secret, then drop these two images into the dashboard above:
 
-1. Deploy your own instance: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats) with a `GITHUB_TOKEN` secret.
-2. Replace `https://github-readme-stats.vercel.app` with `https://<your-app>.vercel.app` in these two snippets:
-   ```
-   https://<your-app>.vercel.app/api?username=nihalhussain555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117
-   https://<your-app>.vercel.app/api/top-langs/?username=nihalhussain555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117
-   ```
+```
+https://<your-app>.vercel.app/api?username=nihalhussain555&theme=tokyonight&hide_border=true&bg_color=0d1117
+https://<your-app>.vercel.app/api/top-langs/?username=nihalhussain555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117
+```
 
 </details>
 
-## Connect
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center"><img src="assets/label-journey.svg" alt="Coding Journey" /></div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><img src="assets/stat-dsa.svg" width="100%" alt="1,200+ DSA problems solved" /></td>
+    <td width="33%" align="center"><img src="assets/stat-total.svg" width="100%" alt="2,700+ total coding problems solved" /></td>
+    <td width="33%" align="center"><img src="assets/stat-streak.svg" width="100%" alt="560+ day coding streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="assets/stat-intern.svg" width="58%" alt="AI/ML internship at DECODELABS" /></td>
+  </tr>
+</table>
 
 <div align="center">
 
-Open to AI/ML engineering internships, MERN development roles, and research-adjacent collaboration.
+<p>
+  <a href="https://leetcode.com/u/Nihal_555/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=orange&labelColor=1F2430" alt="LeetCode profile" /></a>
+  <a href="https://www.codechef.com/users/kit28csb106"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white&labelColor=1F2430" alt="CodeChef profile" /></a>
+  <a href="https://www.hackerrank.com/profile/kit28_24bcs106"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black&labelColor=1F2430" alt="HackerRank profile" /></a>
+</p>
 
-<a href="https://nihal-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/nihal-hussain-555"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br />
-
-<sub>Learn → Build → Break → Debug → Improve → Repeat</sub>
+<sub>Problem counts are self-reported across coding platforms and are separate from GitHub contribution figures.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1e1b4b,100:0a0e1a&height=110&section=footer" width="100%" alt="" />
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center"><img src="assets/label-focus.svg" alt="Current Focus" /></div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><img src="assets/focus-agentic-ai.svg" width="100%" alt="Agentic AI — multi-agent orchestration" /></td>
+    <td width="50%" align="center"><img src="assets/focus-advanced-ml.svg" width="100%" alt="Advanced machine learning — model design and evaluation" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/focus-aws-cloud.svg" width="100%" alt="AWS cloud — compute, storage, deployment" /></td>
+    <td align="center"><img src="assets/focus-devops.svg" width="100%" alt="DevOps — CI/CD and infrastructure" /></td>
+  </tr>
+</table>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center">
+
+#### Contribution Grid
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihalhussain555/nihalhussain555/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalhussain555/nihalhussain555/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nihalhussain555/nihalhussain555/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<sub>Generated nightly by <code>.github/workflows/snake.yml</code> into the <code>output</code> branch, in light and dark variants that follow GitHub's own contribution colours for the current theme. Push the workflow file to resume the daily refresh; run it manually from the Actions tab to update it on demand.</sub>
+
+</div>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center">
+
+<img src="assets/label-connect.svg" alt="Let's Connect" />
+
+<br/>
+
+<sub>Open to AI/ML engineering internships, MERN development roles and research-adjacent collaboration.</sub>
+
+<p>
+  <a href="https://linkedin.com/in/nihal-hussain-cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=1F2430" alt="LinkedIn" /></a>
+  <a href="https://nihal-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2430" alt="Portfolio" /></a>
+  <a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2430" alt="GitHub" /></a>
+  <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2430" alt="Email" /></a>
+</p>
+
+<img src="assets/tagline.svg" width="100%" alt="Building intelligent systems. Creating meaningful impact." />
+
+</div>

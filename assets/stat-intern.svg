@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="150" viewBox="0 0 260 150" role="img" aria-label="AI INTERN — DECODELABS">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070a14"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="gr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+<linearGradient id="num" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c4b5fd"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<filter id="soft" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="260" height="150" rx="14" fill="url(#bg)"/>
+<rect x=".8" y=".8" width="258" height="148" rx="14" fill="none" stroke="#1e293b" stroke-width="1.6"/>
+<rect x="20" y="18" width="52" height="3" rx="1.5" fill="url(#gr)"/>
+<text x="20" y="66" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="1.5" fill="url(#num)" filter="url(#soft)">AI INTERN</text>
+<text x="20" y="104" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.1" fill="#94a3b8">DECODELABS</text>
+<text x="20" y="126" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing=".6" fill="#64748b">Applied ML &amp; NLP</text>
+<circle cx="234" cy="124" r="3" fill="#8b5cf6" opacity=".8"><animate attributeName="opacity" values=".8;.2;.8" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
