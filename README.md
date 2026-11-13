@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://nihal-protfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/nihal-hussain-555"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&labelColor=1F2430" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/nihal-hussain-cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&labelColor=1F2430" alt="LinkedIn" /></a>
 <a href="https://github.com/nihalhussain555"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:nihalhussain587@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=nihalhussain555&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
